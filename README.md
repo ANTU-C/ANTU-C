@@ -3,10 +3,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/antu-chowdhury-167045200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/antu-chowdhury-167045200/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/antu.chowdhury.9843" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/antu.chowdhury.9843" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/kolpo____toru/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/kolpo____toru/" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/antu112" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/antu112" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/antu-chowdhury-167045200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="antu-chowdhury-167045200/" height="30" width="40" /></a>
+<a href="https://fb.com/antu.chowdhury.9843" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="antu.chowdhury.9843" height="30" width="40" /></a>
+<a href="https://instagram.com/kolpo____toru/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kolpo____toru/" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/antu112" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="antu112" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
